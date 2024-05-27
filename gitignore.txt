@@ -1,0 +1,35 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyproj
+*.Python
+*.coverage
+*.db
+*.sqlite3
+*.log
+*.cache
+*.bak
+*.swp
+*.tmp
+*.vscode/
+*.env
+
+# React
+node_modules/
+build/
+public/
+
+# Other
+.env
+data/
+.idea/
+.pdm/
+venv/
+venv_data_collection/
+env/
