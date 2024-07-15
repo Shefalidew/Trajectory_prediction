@@ -4,7 +4,7 @@ In this project, we predict the trajectory of the detected object by utilizing a
 The Stanford Drone Dataset (a large-scale dataset for outdoor drone video footage) is used for the purpose of training. The dataset was created by Stanford University's Autonomous Systems Lab.It consists of 8 video sequences, each between 3-6 minutes lenght. And a total of 10 object classes.Due to overwhelming size of the dataset, a compressed Stanford Drone Dataset was used by Kaggle.
 
 Comparison of Predicted vs Test values
-(Four subplots for four features- x_min, y_min, x_max, y_max
+(Four subplots for four features- x_min, y_min, x_max, y_max)
 ![image](https://github.com/Shefalidew/Trajectory_prediction/assets/97191521/3310d87f-4acd-4458-b662-f75ab95adad3)
 
 For visualization of the Bounding box for ground truth and predicted value
